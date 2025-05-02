@@ -17,3 +17,4 @@ easyocr
 langdetect
 google-cloud-translate
 transformers
+google.generativeai
