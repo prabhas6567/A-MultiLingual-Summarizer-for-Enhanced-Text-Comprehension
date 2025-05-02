@@ -20,3 +20,4 @@ transformers
 google.generativeai
 langchain-community
 faiss-cpu
+transformers
