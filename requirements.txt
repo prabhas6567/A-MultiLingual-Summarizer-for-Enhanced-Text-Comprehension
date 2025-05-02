@@ -19,3 +19,4 @@ google-cloud-translate
 transformers
 google.generativeai
 langchain-community
+faiss-cpu
