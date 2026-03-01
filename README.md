@@ -72,6 +72,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Akula Saketh
 - Akash Chawla
 
-## License
 
-This project is licensed under the MIT License.
